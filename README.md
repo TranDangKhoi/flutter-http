@@ -1,6 +1,6 @@
 ## Sơ lược
 
-B1: Chọn 1 cái API để fetch, trong bài này tôi chọn [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+B1: Chọn 1 cái API để fetch, trong bài này tôi chọn bừa 1 api liên quan tới thông tin user
 
 B2: Tạo file userService.dart để cấu hình data trả về từ API, đồng thời tiện tay viết luôn một hàm để fetch data từ API
 
